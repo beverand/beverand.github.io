@@ -1,2 +1,3 @@
 # beverand.github.io
-for portfolio site
+Hello!
+Taking inspiration from Jared Hanson
